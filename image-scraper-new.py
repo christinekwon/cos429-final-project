@@ -13,13 +13,15 @@ def get_soup(url,header):
 
 # change the query for the image
 query = input()
-image_type=query
 query= query.split()
+image_type='_'.join(query)
 query='+'.join(query)
+print(image_type)
+print(query)
 url="https://www.google.co.in/search?q="+query+"&source=lnms&tbm=isch"
 # print (url)
 # add the directory for new images
-DIR="/Users/christinekwon/Documents/cos429/cos429-final-project/images/"
+DIR="/Users/christinekwon/Documents/cos429/final-project/images/"
 header={'User-Agent':"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36"
 }
 soup = get_soup(url,header)
