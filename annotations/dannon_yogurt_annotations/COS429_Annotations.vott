@@ -1,0 +1,1425 @@
+{
+    "name": "COS429_Annotations",
+    "securityToken": "COS429_Annotations Token",
+    "sourceConnection": {
+        "name": "Dannon_Yogurt",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjJlM2E5MjA3NWZmYTMwZDU3ODg2NDRhNWIwMzJiMjE0ZDhjM2E3OGU1NTExZDBmYWY2NzQzNWM5NmQwYTk4ZjNjNTQ5NzY1YzA4YzAzZGYyYTgyZjk4NTI2YmZiZjAwNmNhNTBlNWUwNzU1MjU3MmMzNzQzZWZlZDYzYjVjMGRkYzM5OTI4MDBlNDMzZDI3MTIzYWJlN2ZhNGQ5OWFmZjgwZWEzMGYzNWZlYTE5YTViZGM3ZTMyMjE1M2NkNjVhIiwiaXYiOiI1OTdhMjgyOTM1M2ExMTljNTMxYmNmYmVjYTRhNTRmMWFhNWJjZTZiZDA1YmU2ODkifQ=="
+        },
+        "id": "J4dFbI2Gh"
+    },
+    "targetConnection": {
+        "name": "Dannon_Yogurt_Annotations ",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjE0MjVjNjE0NGY1NDUxMGMyODIzN2I3YTkyMjFhZDc0NzFjMjUxNzAwOGMzOGNkYjBkODlhZDYxOTk1ZTg3Y2UxYWVkMDAzNzJlMzNiNmI0MGY2ODViYTllNDFiMjg5MGI1YjkzOGNjOWYyMjkwZjYzM2IyNTM5ZjE4NTE0MDNhZTU4NGMxZTFjOGFkMzQ0ZTBjYmFjMDA5ZDY3YjZkYjFmN2Q5NmIwOGEzZDE1ODc3Y2U4NDU3ZmIyNTE1MTIxOTBkMGI0NjM1NGIxOWE2MzQ4MTk4ODgwZWY5MzNmNjkiLCJpdiI6IjQzYTY0YTI1YTBkZmNmM2Y0NjJjZGRmMDJiNTlmYmRhNmViYjA4MjI2Zjg5MDVhZiJ9"
+        },
+        "id": "8__3yX1UC"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "dannon",
+            "color": "#5db300"
+        }
+    ],
+    "id": "dzKaEZhFb",
+    "activeLearningSettings": {
+        "modelPathType": "coco",
+        "autoDetect": false,
+        "predictTag": true
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDViOGNiMjdmMDJjN2ZlZTg4NTgwMmYzNWJhYmUxNjAxNGMyZDE3ODMwMmZiY2Q1NjJlZmYyMjc0NzhmMWQ4ZGNlY2QzMDc0NGUyYTFiMGMwOWE2NmRjNGJmODNjZjIzIiwiaXYiOiI5M2Q2MmI3M2I4MTJhY2RiNjAwZDhhOTAzNGZkMWUwMGE1YmFiMmIxYzJmZmQwMDYifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "fca57b2594603d29107a448a67bcb361",
+    "assets": {
+        "596e36e6a76446022efe26bab906ac16": {
+            "format": "jpg",
+            "id": "596e36e6a76446022efe26bab906ac16",
+            "name": "000313841_1.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/000313841_1.jpg",
+            "size": {
+                "width": 416,
+                "height": 416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1fd199af662bfbfa487589269ddf7635": {
+            "format": "jpg",
+            "id": "1fd199af662bfbfa487589269ddf7635",
+            "name": "0003663200260_A.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/0003663200260_A.jpg",
+            "size": {
+                "width": 280,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46c3473657fa4b07a25eb16539d9d500": {
+            "format": "png",
+            "id": "46c3473657fa4b07a25eb16539d9d500",
+            "name": "0003663200427.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/0003663200427.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5a376e0a6623413727e7dc214bd25923": {
+            "format": "png",
+            "id": "5a376e0a6623413727e7dc214bd25923",
+            "name": "0003663200427_1_A1C1_0600.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/0003663200427_1_A1C1_0600.png",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f40133cee4e5bd4c9bf7cd64c78f465c": {
+            "format": "png",
+            "id": "f40133cee4e5bd4c9bf7cd64c78f465c",
+            "name": "0003663201314_2_A1C1_1200.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/0003663201314_2_A1C1_1200.png",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4c5be4fd9265bb6f8f76a1572341893c": {
+            "format": "jpg",
+            "id": "4c5be4fd9265bb6f8f76a1572341893c",
+            "name": "0003663201316.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/0003663201316.jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "44772614aa924797edc6740321e446e0": {
+            "format": "png",
+            "id": "44772614aa924797edc6740321e446e0",
+            "name": "0003663201316_1_A1C1_1200.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/0003663201316_1_A1C1_1200.png",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "25f336134fe5f565370316a6263d4e19": {
+            "format": "jpg",
+            "id": "25f336134fe5f565370316a6263d4e19",
+            "name": "000609884_1.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/000609884_1.jpg",
+            "size": {
+                "width": 416,
+                "height": 416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1163d8b7c4e24369a8198eddb3118dd6": {
+            "format": "jpeg",
+            "id": "1163d8b7c4e24369a8198eddb3118dd6",
+            "name": "0036632013620_CF_default_default_large.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/0036632013620_CF_default_default_large.jpeg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ce67cb12f3c882aa35873e3ab15fe81": {
+            "format": "jpeg",
+            "id": "6ce67cb12f3c882aa35873e3ab15fe81",
+            "name": "0144ab47_1ee2_4794_b0a7_6b41dddd5b62_1.4959c85086f8637f84eabc50fd6445f5.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/0144ab47_1ee2_4794_b0a7_6b41dddd5b62_1.4959c85086f8637f84eabc50fd6445f5.jpeg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "432684d431c618e6be4b2569eee5aa1b": {
+            "format": "jpeg",
+            "id": "432684d431c618e6be4b2569eee5aa1b",
+            "name": "036632002105_CF___JPEG_3.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/036632002105_CF___JPEG_3.jpeg",
+            "size": {
+                "width": 780,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "acbe2928177887fade74bc946d81aea2": {
+            "format": "jpg",
+            "id": "acbe2928177887fade74bc946d81aea2",
+            "name": "036632006202.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/036632006202.jpg",
+            "size": {
+                "width": 406,
+                "height": 406
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8fcc88bff13fb847afdcb9d8e22e90f": {
+            "format": "png",
+            "id": "d8fcc88bff13fb847afdcb9d8e22e90f",
+            "name": "0f726fee77b98507b9cac6d8a51eb6b0_large.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/0f726fee77b98507b9cac6d8a51eb6b0_large.png",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79e7b6d519ed3a7300b9a0f58a5f29a4": {
+            "format": "jpeg",
+            "id": "79e7b6d519ed3a7300b9a0f58a5f29a4",
+            "name": "168e82f7_6023_40ad_b17d_16839ce4528d_1.a178a6f8af6c5dcce905500ab523a3a1.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/168e82f7_6023_40ad_b17d_16839ce4528d_1.a178a6f8af6c5dcce905500ab523a3a1.jpeg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a49ae0271361a5ab34c8d066f490a677": {
+            "format": "jpg",
+            "id": "a49ae0271361a5ab34c8d066f490a677",
+            "name": "2016_09_19_13.28.04_897x1024.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/2016_09_19_13.28.04_897x1024.jpg",
+            "size": {
+                "width": 897,
+                "height": 1024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab39d260813713d0e84d22e8aae31f11": {
+            "format": "png",
+            "id": "ab39d260813713d0e84d22e8aae31f11",
+            "name": "206a7999ffacfc4f9ca852578d1c2aae_large.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/206a7999ffacfc4f9ca852578d1c2aae_large.png",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2a0a3edfa11a853e82b7f1ecf427431": {
+            "format": "jpg",
+            "id": "e2a0a3edfa11a853e82b7f1ecf427431",
+            "name": "245bd16a_6e26_ee97_d3b4_1a89a54eb0c7.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/245bd16a_6e26_ee97_d3b4_1a89a54eb0c7.jpg",
+            "size": {
+                "width": 1200,
+                "height": 524
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4459c3d7bcd1fd8814ed8801fe53076": {
+            "format": "jpeg",
+            "id": "b4459c3d7bcd1fd8814ed8801fe53076",
+            "name": "2e01978d_2f85_47aa_8250_0d4ef1ca5c06_1.ba7bcd9c4fb0780487ab7182fdeedfdc.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/2e01978d_2f85_47aa_8250_0d4ef1ca5c06_1.ba7bcd9c4fb0780487ab7182fdeedfdc.jpeg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "10b41c246368206b54752ecccfb0b02a": {
+            "format": "jpeg",
+            "id": "10b41c246368206b54752ecccfb0b02a",
+            "name": "33761f5d_f9c4_4d5f_bf0e_48d0b6a1567a_1.0fe8084d8093b7a58df9852cc9059507.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/33761f5d_f9c4_4d5f_bf0e_48d0b6a1567a_1.0fe8084d8093b7a58df9852cc9059507.jpeg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ba01c269d86e8da08e441f95f991cdc": {
+            "format": "gif",
+            "id": "3ba01c269d86e8da08e441f95f991cdc",
+            "name": "3663201317CF.gif",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/3663201317CF.gif",
+            "size": {
+                "width": 1977,
+                "height": 995
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d0e011e4f2486463a1e92f16d01d6e1": {
+            "format": "jpeg",
+            "id": "3d0e011e4f2486463a1e92f16d01d6e1",
+            "name": "3764c464_c6d5_4da6_a434_87fc964638be_1.747afd94238666f72be92ea14738a4c7.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/3764c464_c6d5_4da6_a434_87fc964638be_1.747afd94238666f72be92ea14738a4c7.jpeg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b18f7e5e888bce8ecc2387481b81c9a9": {
+            "format": "png",
+            "id": "b18f7e5e888bce8ecc2387481b81c9a9",
+            "name": "38_384939_fruit_on_the_bottom_blueberry_4_pack_dannon.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/38_384939_fruit_on_the_bottom_blueberry_4_pack_dannon.png",
+            "size": {
+                "width": 820,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0578357347ac5929e422b3e730cce4f4": {
+            "format": "png",
+            "id": "0578357347ac5929e422b3e730cce4f4",
+            "name": "39718163210dafd110e6233d6962224e_large.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/39718163210dafd110e6233d6962224e_large.png",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b2985f400497aae23c0d646695ccde78": {
+            "format": "jpeg",
+            "id": "b2985f400497aae23c0d646695ccde78",
+            "name": "3b12a8fd_34e8_46a0_abd4_9d8be9e18885_1.91328f297ba1433f467b7dc187ce71e9.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/3b12a8fd_34e8_46a0_abd4_9d8be9e18885_1.91328f297ba1433f467b7dc187ce71e9.jpeg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91ec16d2a5852f17cec407c3749758f1": {
+            "format": "jpeg",
+            "id": "91ec16d2a5852f17cec407c3749758f1",
+            "name": "3d390944_e075_4c82_942c_08b39b8e2ea2_1.ab85596b3688c6cf307dfa47d332f6ab.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/3d390944_e075_4c82_942c_08b39b8e2ea2_1.ab85596b3688c6cf307dfa47d332f6ab.jpeg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "045474962fbb1f0217b369476b995473": {
+            "format": "jpg",
+            "id": "045474962fbb1f0217b369476b995473",
+            "name": "51AeX3QNskL.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/51AeX3QNskL.jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "150223180bbdfc75e2c41509ce7ff6d8": {
+            "format": "jpg",
+            "id": "150223180bbdfc75e2c41509ce7ff6d8",
+            "name": "51lOfzGrT4L.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/51lOfzGrT4L.jpg",
+            "size": {
+                "width": 500,
+                "height": 446
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e49da6f440587f83527689534ad8dfd8": {
+            "format": "jpg",
+            "id": "e49da6f440587f83527689534ad8dfd8",
+            "name": "51PouR1t_qL.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/51PouR1t_qL.jpg",
+            "size": {
+                "width": 500,
+                "height": 273
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61deedfc688e991198dfc2a165888fe1": {
+            "format": "jpeg",
+            "id": "61deedfc688e991198dfc2a165888fe1",
+            "name": "5ABD1A01_9EB8_4025_432C_887F1FCC1916_3433.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/5ABD1A01_9EB8_4025_432C_887F1FCC1916_3433.jpeg",
+            "size": {
+                "width": 960,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e5f72d4da5037a87fdec46fd9983cb9f": {
+            "format": "png",
+            "id": "e5f72d4da5037a87fdec46fd9983cb9f",
+            "name": "5b182cf981eb2977991c92cd070bb678_medium.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/5b182cf981eb2977991c92cd070bb678_medium.png",
+            "size": {
+                "width": 256,
+                "height": 256
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c9d972ae720604c302a7bb9eb17d1a4": {
+            "format": "jpg",
+            "id": "3c9d972ae720604c302a7bb9eb17d1a4",
+            "name": "60036224.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/60036224.jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39e58995c798d96609965a7d03e2ac91": {
+            "format": "jpg",
+            "id": "39e58995c798d96609965a7d03e2ac91",
+            "name": "60036225.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/60036225.jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4fd9c4e5ed050967a5a0781e8165d088": {
+            "format": "jpg",
+            "id": "4fd9c4e5ed050967a5a0781e8165d088",
+            "name": "60041650.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/60041650.jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fece73e14f46fac9dc3743d824ab428a": {
+            "format": "jpg",
+            "id": "fece73e14f46fac9dc3743d824ab428a",
+            "name": "617rARV7_aL.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/617rARV7_aL.jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 1,
+            "type": 1
+        },
+        "35b20a4aa08e8beb2550a815696a15bf": {
+            "format": "jpeg",
+            "id": "35b20a4aa08e8beb2550a815696a15bf",
+            "name": "6853c275_1c65_4633_ab8c_4ff02465b299_1.b09ddd51a43e3119d29c60cf0d016631.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/6853c275_1c65_4633_ab8c_4ff02465b299_1.b09ddd51a43e3119d29c60cf0d016631.jpeg",
+            "size": {
+                "width": 3000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "912783d654e28b0b066f275650f018d8": {
+            "format": "png",
+            "id": "912783d654e28b0b066f275650f018d8",
+            "name": "6c4652f8285d773696ee3a6caa478bb9.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/6c4652f8285d773696ee3a6caa478bb9.png",
+            "size": {
+                "width": 455,
+                "height": 410
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e29c5c1be611d58a5b1cf16d71ee44a8": {
+            "format": "jpg",
+            "id": "e29c5c1be611d58a5b1cf16d71ee44a8",
+            "name": "6e8d1576_43ba_493b_8d46_9298c0861bdc_1.b9f4d873990eedc5acb3a91ae052521c.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/6e8d1576_43ba_493b_8d46_9298c0861bdc_1.b9f4d873990eedc5acb3a91ae052521c.jpg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f553c3ffd89ae482af41ab536f56bf1": {
+            "format": "jpg",
+            "id": "5f553c3ffd89ae482af41ab536f56bf1",
+            "name": "71fKGEAFCQL.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/71fKGEAFCQL.jpg",
+            "size": {
+                "width": 1500,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e9327b450fc89faf57146638db24d37": {
+            "format": "jpeg",
+            "id": "4e9327b450fc89faf57146638db24d37",
+            "name": "7c18f95b_a450_458e_9305_b0197a6f4d26_1.c4acce8c2742a2cff044dc8a633582a8.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/7c18f95b_a450_458e_9305_b0197a6f4d26_1.c4acce8c2742a2cff044dc8a633582a8.jpeg",
+            "size": {
+                "width": 1800,
+                "height": 1800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f2b2508c6635438aef1685c5cfd2df1b": {
+            "format": "png",
+            "id": "f2b2508c6635438aef1685c5cfd2df1b",
+            "name": "7db9d757b925e0c52a9a111a2baa4201_large.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/7db9d757b925e0c52a9a111a2baa4201_large.png",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6edcc10cf7cc1a69d2b5554c34996043": {
+            "format": "png",
+            "id": "6edcc10cf7cc1a69d2b5554c34996043",
+            "name": "7ee7eae268d92d6c89525fc1dfb6cb38.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/7ee7eae268d92d6c89525fc1dfb6cb38.png",
+            "size": {
+                "width": 436,
+                "height": 395
+            },
+            "state": 2,
+            "type": 1
+        },
+        "779a33de1e844dc3cb3c765c1e0f7a42": {
+            "format": "jpeg",
+            "id": "779a33de1e844dc3cb3c765c1e0f7a42",
+            "name": "832769.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/832769.jpeg",
+            "size": {
+                "width": 600,
+                "height": 325
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f28da8bf0d73329a10b1f5121507cff3": {
+            "format": "jpeg",
+            "id": "f28da8bf0d73329a10b1f5121507cff3",
+            "name": "83f2b338_be5b_40c4_8812_70e65134fc0f_1.b8da3cf5e7a75addad5e9d9013367b33.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/83f2b338_be5b_40c4_8812_70e65134fc0f_1.b8da3cf5e7a75addad5e9d9013367b33.jpeg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d42371372f699d9385fee4b56edac8d9": {
+            "format": "png",
+            "id": "d42371372f699d9385fee4b56edac8d9",
+            "name": "83fff0616d09bcdbf2939e088be9a0b9_medium.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/83fff0616d09bcdbf2939e088be9a0b9_medium.png",
+            "size": {
+                "width": 256,
+                "height": 256
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4467b00c448a8d2183fb0770f3482549": {
+            "format": "png",
+            "id": "4467b00c448a8d2183fb0770f3482549",
+            "name": "8462d92db8590e04e37ecf61b981e72a_medium.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/8462d92db8590e04e37ecf61b981e72a_medium.png",
+            "size": {
+                "width": 256,
+                "height": 256
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a3ebbac3a48d175707ccf64e772bf3fe": {
+            "format": "jpeg",
+            "id": "a3ebbac3a48d175707ccf64e772bf3fe",
+            "name": "84c3109d_fedd_426b_a26b_482f44e08ddd_1.701a8134a927d1c6c65f51ccf3c7038f.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/84c3109d_fedd_426b_a26b_482f44e08ddd_1.701a8134a927d1c6c65f51ccf3c7038f.jpeg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f998b45477f356c2b6693b0359b5e16": {
+            "format": "jpg",
+            "id": "5f998b45477f356c2b6693b0359b5e16",
+            "name": "8888fa8c_0612_87c0_676f_f6992128ac56.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/8888fa8c_0612_87c0_676f_f6992128ac56.jpg",
+            "size": {
+                "width": 940,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55788a5ed40a9fecabd9851bca230ddf": {
+            "format": "jpg",
+            "id": "55788a5ed40a9fecabd9851bca230ddf",
+            "name": "8e1f4a3e_4bdd_7d31_2411_d3851915565f.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/8e1f4a3e_4bdd_7d31_2411_d3851915565f.jpg",
+            "size": {
+                "width": 1200,
+                "height": 510
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c1d3ebb13e4ea3cb0da6ed46801a9dbb": {
+            "format": "jpg",
+            "id": "c1d3ebb13e4ea3cb0da6ed46801a9dbb",
+            "name": "Base_036632013064.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Base_036632013064.jpg",
+            "size": {
+                "width": 750,
+                "height": 552
+            },
+            "state": 2,
+            "type": 1
+        },
+        "777251578ea0fe1a867892eff7cbd466": {
+            "format": "png",
+            "id": "777251578ea0fe1a867892eff7cbd466",
+            "name": "Dannon.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Dannon.png",
+            "size": {
+                "width": 1140,
+                "height": 810
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b4bbc2e8cc403b8881eb3daea1e5cc3": {
+            "format": "jpg",
+            "id": "3b4bbc2e8cc403b8881eb3daea1e5cc3",
+            "name": "DannonLightnFit4cupsYogurt0FatPeach6ozx4cups6ozx4cups.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/DannonLightnFit4cupsYogurt0FatPeach6ozx4cups6ozx4cups.jpg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16d29b07b54bbd14ce1a6ca8fc95a759": {
+            "format": "jpg",
+            "id": "16d29b07b54bbd14ce1a6ca8fc95a759",
+            "name": "Dannon_Light_Fit_Regular_Single_Serve_Cups_Printable_Coupon.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Dannon_Light_Fit_Regular_Single_Serve_Cups_Printable_Coupon.jpg",
+            "size": {
+                "width": 526,
+                "height": 314
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8771d31ab2577d28df976ad9d67a7e0": {
+            "format": "png",
+            "id": "c8771d31ab2577d28df976ad9d67a7e0",
+            "name": "Dannon_Light_Fit_Yogurt.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Dannon_Light_Fit_Yogurt.png",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a7912a4c140ed7f2bf8e5fe2064f144b": {
+            "format": "jpg",
+            "id": "a7912a4c140ed7f2bf8e5fe2064f144b",
+            "name": "Dannon_Light_Fit_Yogurt_Multipack_0.50_Tops_Markets_Coupon_Deal_5.8.16_May_2016.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Dannon_Light_Fit_Yogurt_Multipack_0.50_Tops_Markets_Coupon_Deal_5.8.16_May_2016.jpg",
+            "size": {
+                "width": 1100,
+                "height": 737
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8b8462d17d8583f1f1382c1d656aae4": {
+            "format": "jpg",
+            "id": "b8b8462d17d8583f1f1382c1d656aae4",
+            "name": "Dannon_Light__26_Fit_Blueberry_Acai_0_25_Fat_Yogurt.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Dannon_Light__26_Fit_Blueberry_Acai_0_25_Fat_Yogurt.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1195
+            },
+            "state": 2,
+            "type": 1
+        },
+        "58793433c8956f0c2c15cc7bfc8543d9": {
+            "format": "jpg",
+            "id": "58793433c8956f0c2c15cc7bfc8543d9",
+            "name": "Dannon_Whole_Milk_Yogurt_5.3oz_Printable_Coupon.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Dannon_Whole_Milk_Yogurt_5.3oz_Printable_Coupon.jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91e6d0c6df391db96c5f1160cc1e9560": {
+            "format": "png",
+            "id": "91e6d0c6df391db96c5f1160cc1e9560",
+            "name": "Screen_Shot_2016_08_23_at_10.40.49_PM.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Screen_Shot_2016_08_23_at_10.40.49_PM.png",
+            "size": {
+                "width": 370,
+                "height": 498
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8cc44fa4c07752e423fda8571bf0f77b": {
+            "format": "png",
+            "id": "8cc44fa4c07752e423fda8571bf0f77b",
+            "name": "Screen_Shot_2016_10_11_at_6.13.40_PM.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Screen_Shot_2016_10_11_at_6.13.40_PM.png",
+            "size": {
+                "width": 448,
+                "height": 403
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ec26faf9723873d4ab64f95febb343c": {
+            "format": "jpg",
+            "id": "4ec26faf9723873d4ab64f95febb343c",
+            "name": "WGGXN.jpg.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/WGGXN.jpg.jpg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16aace2630bdeb9fe234b229a207d3f6": {
+            "format": "jpeg",
+            "id": "16aace2630bdeb9fe234b229a207d3f6",
+            "name": "a0ff4550_8f77_454f_98ed_ff7376446b14_1.d615f3ee8aa2ec32988188c069d1359c.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/a0ff4550_8f77_454f_98ed_ff7376446b14_1.d615f3ee8aa2ec32988188c069d1359c.jpeg",
+            "size": {
+                "width": 450,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3680003ee8f7ee5965d526672cafaee": {
+            "format": "png",
+            "id": "d3680003ee8f7ee5965d526672cafaee",
+            "name": "a69063bedee327fd2d8e345240b8a386_large.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/a69063bedee327fd2d8e345240b8a386_large.png",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "270ce51b8494d04bdee126ae4d09b28a": {
+            "format": "png",
+            "id": "270ce51b8494d04bdee126ae4d09b28a",
+            "name": "a6c73373e2facc6fee96dfff6b0e2920_large.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/a6c73373e2facc6fee96dfff6b0e2920_large.png",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f81b00ececa76c67ecb63482c0d2e9a2": {
+            "format": "png",
+            "id": "f81b00ececa76c67ecb63482c0d2e9a2",
+            "name": "a75034920dc59a4fbe8207eb87f30018_large.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/a75034920dc59a4fbe8207eb87f30018_large.png",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39cf01aaae04cf7e9542d48ee78ad950": {
+            "format": "png",
+            "id": "39cf01aaae04cf7e9542d48ee78ad950",
+            "name": "a9b4016e674bcb8dd4ecea84275ad8c4_large.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/a9b4016e674bcb8dd4ecea84275ad8c4_large.png",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b88902f689cdca5b72f6eb958ae4eb61": {
+            "format": "png",
+            "id": "b88902f689cdca5b72f6eb958ae4eb61",
+            "name": "all_natural_yogurt_strawberry.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/all_natural_yogurt_strawberry.png",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41a344691cae8c306b1da87912e91834": {
+            "format": "jpg",
+            "id": "41a344691cae8c306b1da87912e91834",
+            "name": "base_036632001160_1.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/base_036632001160_1.jpg",
+            "size": {
+                "width": 750,
+                "height": 552
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9004a42f69956015e8086844ebd1638a": {
+            "format": "jpg",
+            "id": "9004a42f69956015e8086844ebd1638a",
+            "name": "base_036632013071.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/base_036632013071.jpg",
+            "size": {
+                "width": 750,
+                "height": 552
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ed3051ed857fddad3fac6d297e04177": {
+            "format": "jpg",
+            "id": "8ed3051ed857fddad3fac6d297e04177",
+            "name": "base_036632013101.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/base_036632013101.jpg",
+            "size": {
+                "width": 750,
+                "height": 552
+            },
+            "state": 2,
+            "type": 1
+        },
+        "72cd6b83a83d9a5b7c8a31283c963388": {
+            "format": "jpg",
+            "id": "72cd6b83a83d9a5b7c8a31283c963388",
+            "name": "base_036632013118.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/base_036632013118.jpg",
+            "size": {
+                "width": 750,
+                "height": 552
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cae1b32971e4c9808bd35b49ecd7212a": {
+            "format": "png",
+            "id": "cae1b32971e4c9808bd35b49ecd7212a",
+            "name": "coffee_low_fat_yogurt_4_pack.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/coffee_low_fat_yogurt_4_pack.png",
+            "size": {
+                "width": 450,
+                "height": 237
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d29054e217887cefdd3f7ca504762f9": {
+            "format": "jpg",
+            "id": "0d29054e217887cefdd3f7ca504762f9",
+            "name": "containers_of_dannon_light_fit_brand_yogurt_are_seen_on_a_supermarket_DE0MKG.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/containers_of_dannon_light_fit_brand_yogurt_are_seen_on_a_supermarket_DE0MKG.jpg",
+            "size": {
+                "width": 1300,
+                "height": 953
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd04518bf2d6ac7ea6ca68fa1badf42a": {
+            "format": "jpg",
+            "id": "bd04518bf2d6ac7ea6ca68fa1badf42a",
+            "name": "d05f3d0a_b0dc_1eca_3027_a75122b64a4e.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/d05f3d0a_b0dc_1eca_3027_a75122b64a4e.jpg",
+            "size": {
+                "width": 300,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "87817b117b645228bbb2f90964cce0e3": {
+            "format": "jpg",
+            "id": "87817b117b645228bbb2f90964cce0e3",
+            "name": "dannon.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dannon.jpg",
+            "size": {
+                "width": 500,
+                "height": 301
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9f645bfef0f86879a3b7ae8ae5ab951": {
+            "format": "png",
+            "id": "a9f645bfef0f86879a3b7ae8ae5ab951",
+            "name": "dannonRPF_dannon_nonfat_32oz.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dannonRPF_dannon_nonfat_32oz.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec7ca8077f0e83b221f8af6e923b95bc": {
+            "format": "jpg",
+            "id": "ec7ca8077f0e83b221f8af6e923b95bc",
+            "name": "dannon_light_and_fit_at_wegmans.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dannon_light_and_fit_at_wegmans.jpg",
+            "size": {
+                "width": 540,
+                "height": 292
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6bc1a7badb258ea5c2860a6210f714c0": {
+            "format": "jpg",
+            "id": "6bc1a7badb258ea5c2860a6210f714c0",
+            "name": "dannon_light_and_fit_coupon.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dannon_light_and_fit_coupon.jpg",
+            "size": {
+                "width": 350,
+                "height": 350
+            },
+            "state": 2,
+            "type": 1
+        },
+        "88bb2644aa13be87c197bfa43ca7a999": {
+            "format": "jpg",
+            "id": "88bb2644aa13be87c197bfa43ca7a999",
+            "name": "dannon_light_and_fit_heidi_klum_02.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dannon_light_and_fit_heidi_klum_02.jpg",
+            "size": {
+                "width": 960,
+                "height": 839
+            },
+            "state": 2,
+            "type": 1
+        },
+        "47f768a69fd70dfe4d302e35c3038729": {
+            "format": "png",
+            "id": "47f768a69fd70dfe4d302e35c3038729",
+            "name": "dannon_light_and_fit_yogurt_cup.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dannon_light_and_fit_yogurt_cup.png",
+            "size": {
+                "width": 526,
+                "height": 314
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b71b41a8da4a993d6b86ff248fc9cdb5": {
+            "format": "jpg",
+            "id": "b71b41a8da4a993d6b86ff248fc9cdb5",
+            "name": "dannon_light_fit_50_calorie_packs_assorted_nonfat_yogurt_000716056.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dannon_light_fit_50_calorie_packs_assorted_nonfat_yogurt_000716056.jpg",
+            "size": {
+                "width": 180,
+                "height": 180
+            },
+            "state": 1,
+            "type": 1
+        },
+        "aa638027ce3e1e5ef04046cb5e238012": {
+            "format": "jpg",
+            "id": "aa638027ce3e1e5ef04046cb5e238012",
+            "name": "dannon_whole_milk_yogurt_at_walmart_hip2save.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dannon_whole_milk_yogurt_at_walmart_hip2save.jpg",
+            "size": {
+                "width": 1024,
+                "height": 538
+            },
+            "state": 2,
+            "type": 1
+        },
+        "45f8a35e6773b9bcf08d87202ee43909": {
+            "format": "jpg",
+            "id": "45f8a35e6773b9bcf08d87202ee43909",
+            "name": "dannonlightnfit4cupsyogurt0fatblueberry_6ozx4cups.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dannonlightnfit4cupsyogurt0fatblueberry_6ozx4cups.jpg",
+            "size": {
+                "width": 291,
+                "height": 173
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a94aa4eff309e4f9124f7f4e8862abc8": {
+            "format": "jpg",
+            "id": "a94aa4eff309e4f9124f7f4e8862abc8",
+            "name": "dnannon_light_and_fit.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dnannon_light_and_fit.jpg",
+            "size": {
+                "width": 219,
+                "height": 176
+            },
+            "state": 2,
+            "type": 1
+        },
+        "19876b40a76b50e0a498c2e6ed56b3ba": {
+            "format": "png",
+            "id": "19876b40a76b50e0a498c2e6ed56b3ba",
+            "name": "e4790b0cd5c0359ee35cffea9884b2d3_large.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/e4790b0cd5c0359ee35cffea9884b2d3_large.png",
+            "size": {
+                "width": 512,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4cba9abd63e0b9c17feda56cec7e0841": {
+            "format": "png",
+            "id": "4cba9abd63e0b9c17feda56cec7e0841",
+            "name": "ed65ea7d515420c90989199e52840963_medium.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/ed65ea7d515420c90989199e52840963_medium.png",
+            "size": {
+                "width": 256,
+                "height": 256
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fdf10eefb191426c04bdfb018100bd87": {
+            "format": "png",
+            "id": "fdf10eefb191426c04bdfb018100bd87",
+            "name": "f9b873b149ee2a6476c011ecc7540985_medium.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/f9b873b149ee2a6476c011ecc7540985_medium.png",
+            "size": {
+                "width": 256,
+                "height": 256
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8de71abc4050d9367906df21b80479b": {
+            "format": "jpg",
+            "id": "b8de71abc4050d9367906df21b80479b",
+            "name": "fc771d52ac99efa6cedb31af56739cc2.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/fc771d52ac99efa6cedb31af56739cc2.jpg",
+            "size": {
+                "width": 526,
+                "height": 314
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5938c17ced35a4da471778d47e25cc39": {
+            "format": "jpeg",
+            "id": "5938c17ced35a4da471778d47e25cc39",
+            "name": "getMainImageSquare%20copy%202.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/getMainImageSquare%20copy%202.jpeg",
+            "size": {
+                "width": 260,
+                "height": 260
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91454b271b268c56752637978a8b8c0f": {
+            "format": "jpeg",
+            "id": "91454b271b268c56752637978a8b8c0f",
+            "name": "getMainImageSquare%20copy.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/getMainImageSquare%20copy.jpeg",
+            "size": {
+                "width": 260,
+                "height": 260
+            },
+            "state": 1,
+            "type": 1
+        },
+        "88200a49de3416bcf7569672a62f4e2b": {
+            "format": "jpeg",
+            "id": "88200a49de3416bcf7569672a62f4e2b",
+            "name": "getMainImageSquare.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/getMainImageSquare.jpeg",
+            "size": {
+                "width": 260,
+                "height": 260
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05f92a5d5bc2bf927fc15c2aa6bcfe54": {
+            "format": "jpg",
+            "id": "05f92a5d5bc2bf927fc15c2aa6bcfe54",
+            "name": "hurry_1_00_off_dannon_light_fit_4pk.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/hurry_1_00_off_dannon_light_fit_4pk.jpg",
+            "size": {
+                "width": 275,
+                "height": 247
+            },
+            "state": 2,
+            "type": 1
+        },
+        "96c6bb920c3da4d8f8b087ecdc04d60a": {
+            "format": "png",
+            "id": "96c6bb920c3da4d8f8b087ecdc04d60a",
+            "name": "large_474ae5f5_10ff_4a12_843a_115abde6d281.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/large_474ae5f5_10ff_4a12_843a_115abde6d281.png",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d69e51e3a13120064ac88d5fa3cbc78": {
+            "format": "jpeg",
+            "id": "2d69e51e3a13120064ac88d5fa3cbc78",
+            "name": "large_64b37624_f2ad_447e_a01a_3e00a8e4341d.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/large_64b37624_f2ad_447e_a01a_3e00a8e4341d.jpeg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4610b0541baea8448e5fd98c655a6c6": {
+            "format": "jpeg",
+            "id": "b4610b0541baea8448e5fd98c655a6c6",
+            "name": "large_7010d94b_cd80_4a9c_81fd_05ab4923ccb1.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/large_7010d94b_cd80_4a9c_81fd_05ab4923ccb1.jpeg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f705aa679b4a064b775a7af12c9effcb": {
+            "format": "png",
+            "id": "f705aa679b4a064b775a7af12c9effcb",
+            "name": "large_7b67f6b9_5712_4e03_afb0_c5c8649c4865.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/large_7b67f6b9_5712_4e03_afb0_c5c8649c4865.png",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8cc2dfeb72ac7e2a98e6d1f62a3238a1": {
+            "format": "png",
+            "id": "8cc2dfeb72ac7e2a98e6d1f62a3238a1",
+            "name": "large_bdd943ad_abca_44f1_8a81_a8542c583ce1.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/large_bdd943ad_abca_44f1_8a81_a8542c583ce1.png",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "259312e619962581f1eafa6091491725": {
+            "format": "jpeg",
+            "id": "259312e619962581f1eafa6091491725",
+            "name": "large_be4d77bf_a198_4cd2_bc6c_6f1f1418125f.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/large_be4d77bf_a198_4cd2_bc6c_6f1f1418125f.jpeg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ccd1cf573556314a7160409a1f796ce": {
+            "format": "jpeg",
+            "id": "3ccd1cf573556314a7160409a1f796ce",
+            "name": "large_df63fd9d_7d4f_4895_899f_a35bd42dffcd.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/large_df63fd9d_7d4f_4895_899f_a35bd42dffcd.jpeg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46aedc7d5aefbadd4868808085503d47": {
+            "format": "jpeg",
+            "id": "46aedc7d5aefbadd4868808085503d47",
+            "name": "large_f1e6862b_0f42_4bd1_b295_eb3edc70c7f0.jpeg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/large_f1e6862b_0f42_4bd1_b295_eb3edc70c7f0.jpeg",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3e4744de641bc61aa62c73e117b3b5d4": {
+            "format": "png",
+            "id": "3e4744de641bc61aa62c73e117b3b5d4",
+            "name": "lt_n_fit_cherry_vanilla_5_3oz.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/lt_n_fit_cherry_vanilla_5_3oz.png",
+            "size": {
+                "width": 371,
+                "height": 371
+            },
+            "state": 2,
+            "type": 1
+        },
+        "21b71beac1a03cf961187c7d6554417c": {
+            "format": "png",
+            "id": "21b71beac1a03cf961187c7d6554417c",
+            "name": "lt_n_fit_flv_vanilla_32oz.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/lt_n_fit_flv_vanilla_32oz.png",
+            "size": {
+                "width": 371,
+                "height": 371
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6c7cd9b4404d68faef370a94ea4a9b7": {
+            "format": "png",
+            "id": "b6c7cd9b4404d68faef370a94ea4a9b7",
+            "name": "lt_n_fit_str_pch_afh_4oz_afh.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/lt_n_fit_str_pch_afh_4oz_afh.png",
+            "size": {
+                "width": 371,
+                "height": 371
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26f0c097e0f31116226497e77dcdcb7e": {
+            "format": "png",
+            "id": "26f0c097e0f31116226497e77dcdcb7e",
+            "name": "lt_n_fit_strawberry_32oz.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/lt_n_fit_strawberry_32oz.png",
+            "size": {
+                "width": 371,
+                "height": 371
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d87f0575480a064af0b8769a9281eb4": {
+            "format": "png",
+            "id": "0d87f0575480a064af0b8769a9281eb4",
+            "name": "lt_n_fit_strawberry_cheesecake_5_3oz.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/lt_n_fit_strawberry_cheesecake_5_3oz.png",
+            "size": {
+                "width": 371,
+                "height": 371
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a23bd5d6b3ab810b9f2cd5f66011e81d": {
+            "format": "png",
+            "id": "a23bd5d6b3ab810b9f2cd5f66011e81d",
+            "name": "medium%20(1)%20copy%202.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/medium%20(1)%20copy%202.png",
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0938e8eac5768de9b79b4508fe74eba2": {
+            "format": "png",
+            "id": "0938e8eac5768de9b79b4508fe74eba2",
+            "name": "medium%20(1)%20copy.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/medium%20(1)%20copy.png",
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "959c67212129e67c4c20e0da3096e219": {
+            "format": "png",
+            "id": "959c67212129e67c4c20e0da3096e219",
+            "name": "medium%20(1).png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/medium%20(1).png",
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2f75369ac476d2aa3284ee886f54870": {
+            "format": "png",
+            "id": "a2f75369ac476d2aa3284ee886f54870",
+            "name": "medium%20(2).png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/medium%20(2).png",
+            "size": {
+                "width": 250,
+                "height": 250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bee5ddb8771a8f41567e051eae10c36": {
+            "format": "png",
+            "id": "3bee5ddb8771a8f41567e051eae10c36",
+            "name": "medium%20copy%202.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/medium%20copy%202.png",
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "527d6123f9da3d6e6374401a8ec1bef4": {
+            "format": "png",
+            "id": "527d6123f9da3d6e6374401a8ec1bef4",
+            "name": "medium%20copy.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/medium%20copy.png",
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef2111a8e2595ae7f17e57d51450eeae": {
+            "format": "png",
+            "id": "ef2111a8e2595ae7f17e57d51450eeae",
+            "name": "medium.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/medium.png",
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb703511a4284f8b0b0e4fb6e02d9e6d": {
+            "format": "jpg",
+            "id": "eb703511a4284f8b0b0e4fb6e02d9e6d",
+            "name": "meijer_matchups_dannon.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/meijer_matchups_dannon.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "643aa68e887c0c4fd6f629e8d3cb8ed5": {
+            "format": "png",
+            "id": "643aa68e887c0c4fd6f629e8d3cb8ed5",
+            "name": "plain_low_fat_yogurt.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/plain_low_fat_yogurt.png",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0923c1ee3f51d539417ff6c122cdf373": {
+            "format": "jpg",
+            "id": "0923c1ee3f51d539417ff6c122cdf373",
+            "name": "spin_prod_ec_770363801.jpg",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/spin_prod_ec_770363801.jpg",
+            "size": {
+                "width": 315,
+                "height": 315
+            },
+            "state": 2,
+            "type": 1
+        },
+        "697e315977354b18eee8f170799eb665": {
+            "format": "png",
+            "id": "697e315977354b18eee8f170799eb665",
+            "name": "super_saver_pack_vanilla.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/super_saver_pack_vanilla.png",
+            "size": {
+                "width": 450,
+                "height": 268
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fca57b2594603d29107a448a67bcb361": {
+            "format": "png",
+            "id": "fca57b2594603d29107a448a67bcb361",
+            "name": "thumb_dannon_light_and_fit.png",
+            "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/thumb_dannon_light_and_fit.png",
+            "size": {
+                "width": 303,
+                "height": 160
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}

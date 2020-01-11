@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b8b8462d17d8583f1f1382c1d656aae4",
+        "name": "Dannon_Light__26_Fit_Blueberry_Acai_0_25_Fat_Yogurt.jpg",
+        "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Dannon_Light__26_Fit_Blueberry_Acai_0_25_Fat_Yogurt.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1195
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UrqpOyNT8",
+            "type": "RECTANGLE",
+            "tags": [
+                "dannon"
+            ],
+            "boundingBox": {
+                "height": 964.5632603547548,
+                "width": 1145.4772475027748,
+                "left": 359.7391786903441,
+                "top": 158.59996053120355
+            },
+            "points": [
+                {
+                    "x": 359.7391786903441,
+                    "y": 158.59996053120355
+                },
+                {
+                    "x": 1505.2164261931189,
+                    "y": 158.59996053120355
+                },
+                {
+                    "x": 1505.2164261931189,
+                    "y": 1123.1632208859583
+                },
+                {
+                    "x": 359.7391786903441,
+                    "y": 1123.1632208859583
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

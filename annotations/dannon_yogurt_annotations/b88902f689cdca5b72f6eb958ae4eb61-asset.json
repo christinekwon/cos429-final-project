@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "b88902f689cdca5b72f6eb958ae4eb61",
+        "name": "all_natural_yogurt_strawberry.png",
+        "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/all_natural_yogurt_strawberry.png",
+        "size": {
+            "width": 300,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NL0Mcc3iy",
+            "type": "RECTANGLE",
+            "tags": [
+                "dannon"
+            ],
+            "boundingBox": {
+                "height": 257.35743613138686,
+                "width": 295.06443886861314,
+                "left": 1.875,
+                "top": 20.395757299270073
+            },
+            "points": [
+                {
+                    "x": 1.875,
+                    "y": 20.395757299270073
+                },
+                {
+                    "x": 296.93943886861314,
+                    "y": 20.395757299270073
+                },
+                {
+                    "x": 296.93943886861314,
+                    "y": 277.75319343065695
+                },
+                {
+                    "x": 1.875,
+                    "y": 277.75319343065695
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

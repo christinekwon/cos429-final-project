@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "16d29b07b54bbd14ce1a6ca8fc95a759",
+        "name": "Dannon_Light_Fit_Regular_Single_Serve_Cups_Printable_Coupon.jpg",
+        "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Dannon_Light_Fit_Regular_Single_Serve_Cups_Printable_Coupon.jpg",
+        "size": {
+            "width": 526,
+            "height": 314
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-7JzfyYtc",
+            "type": "RECTANGLE",
+            "tags": [
+                "dannon"
+            ],
+            "boundingBox": {
+                "height": 297.2498983503717,
+                "width": 320.36933788845727,
+                "left": 104.05703731964483,
+                "top": 6.5431865706319705
+            },
+            "points": [
+                {
+                    "x": 104.05703731964483,
+                    "y": 6.5431865706319705
+                },
+                {
+                    "x": 424.42637520810206,
+                    "y": 6.5431865706319705
+                },
+                {
+                    "x": 424.42637520810206,
+                    "y": 303.7930849210037
+                },
+                {
+                    "x": 104.05703731964483,
+                    "y": 303.7930849210037
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

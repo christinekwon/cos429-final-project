@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b8de71abc4050d9367906df21b80479b",
+        "name": "fc771d52ac99efa6cedb31af56739cc2.jpg",
+        "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/fc771d52ac99efa6cedb31af56739cc2.jpg",
+        "size": {
+            "width": 526,
+            "height": 314
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lJmYmmpA0",
+            "type": "RECTANGLE",
+            "tags": [
+                "dannon"
+            ],
+            "boundingBox": {
+                "height": 295.3826963289963,
+                "width": 315.35234288290786,
+                "left": 106.25539331298556,
+                "top": 6.431473629182156
+            },
+            "points": [
+                {
+                    "x": 106.25539331298556,
+                    "y": 6.431473629182156
+                },
+                {
+                    "x": 421.60773619589344,
+                    "y": 6.431473629182156
+                },
+                {
+                    "x": 421.60773619589344,
+                    "y": 301.8141699581784
+                },
+                {
+                    "x": 106.25539331298556,
+                    "y": 301.8141699581784
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

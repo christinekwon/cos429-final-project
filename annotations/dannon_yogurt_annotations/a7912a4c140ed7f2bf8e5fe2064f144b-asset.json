@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a7912a4c140ed7f2bf8e5fe2064f144b",
+        "name": "Dannon_Light_Fit_Yogurt_Multipack_0.50_Tops_Markets_Coupon_Deal_5.8.16_May_2016.jpg",
+        "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Dannon_Light_Fit_Yogurt_Multipack_0.50_Tops_Markets_Coupon_Deal_5.8.16_May_2016.jpg",
+        "size": {
+            "width": 1100,
+            "height": 737
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Sr-A4WT5S",
+            "type": "RECTANGLE",
+            "tags": [
+                "dannon"
+            ],
+            "boundingBox": {
+                "height": 363.1139667839404,
+                "width": 373.1175430077692,
+                "left": 23.487357796892343,
+                "top": 371.4647014693708
+            },
+            "points": [
+                {
+                    "x": 23.487357796892343,
+                    "y": 371.4647014693708
+                },
+                {
+                    "x": 396.6049008046615,
+                    "y": 371.4647014693708
+                },
+                {
+                    "x": 396.6049008046615,
+                    "y": 734.5786682533112
+                },
+                {
+                    "x": 23.487357796892343,
+                    "y": 734.5786682533112
+                }
+            ]
+        },
+        {
+            "id": "AMk1vEHDQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "dannon"
+            ],
+            "boundingBox": {
+                "height": 370.78787251655626,
+                "width": 343.94552927303,
+                "left": 405.0985016648169,
+                "top": 366.2121274834437
+            },
+            "points": [
+                {
+                    "x": 405.0985016648169,
+                    "y": 366.2121274834437
+                },
+                {
+                    "x": 749.0440309378469,
+                    "y": 366.2121274834437
+                },
+                {
+                    "x": 749.0440309378469,
+                    "y": 737
+                },
+                {
+                    "x": 405.0985016648169,
+                    "y": 737
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

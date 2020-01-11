@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "58793433c8956f0c2c15cc7bfc8543d9",
+        "name": "Dannon_Whole_Milk_Yogurt_5.3oz_Printable_Coupon.jpg",
+        "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/Dannon_Whole_Milk_Yogurt_5.3oz_Printable_Coupon.jpg",
+        "size": {
+            "width": 600,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "c1IjnR951",
+            "type": "RECTANGLE",
+            "tags": [
+                "dannon"
+            ],
+            "boundingBox": {
+                "height": 351.7444883527454,
+                "width": 426.96569783573807,
+                "left": 97.10564650388457,
+                "top": 26.357113144758735
+            },
+            "points": [
+                {
+                    "x": 97.10564650388457,
+                    "y": 26.357113144758735
+                },
+                {
+                    "x": 524.0713443396227,
+                    "y": 26.357113144758735
+                },
+                {
+                    "x": 524.0713443396227,
+                    "y": 378.10160149750413
+                },
+                {
+                    "x": 97.10564650388457,
+                    "y": 378.10160149750413
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

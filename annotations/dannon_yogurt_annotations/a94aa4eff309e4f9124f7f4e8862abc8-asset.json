@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a94aa4eff309e4f9124f7f4e8862abc8",
+        "name": "dnannon_light_and_fit.jpg",
+        "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dnannon_light_and_fit.jpg",
+        "size": {
+            "width": 219,
+            "height": 176
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "czUiu61ON",
+            "type": "RECTANGLE",
+            "tags": [
+                "dannon"
+            ],
+            "boundingBox": {
+                "height": 156.3425182481752,
+                "width": 172.26851342429578,
+                "left": 14.940580985915492,
+                "top": 0.5971715328467153
+            },
+            "points": [
+                {
+                    "x": 14.940580985915492,
+                    "y": 0.5971715328467153
+                },
+                {
+                    "x": 187.20909441021126,
+                    "y": 0.5971715328467153
+                },
+                {
+                    "x": 187.20909441021126,
+                    "y": 156.9396897810219
+                },
+                {
+                    "x": 14.940580985915492,
+                    "y": 156.9396897810219
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

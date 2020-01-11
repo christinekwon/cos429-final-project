@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "45f8a35e6773b9bcf08d87202ee43909",
+        "name": "dannonlightnfit4cupsyogurt0fatblueberry_6ozx4cups.jpg",
+        "path": "file:/Users/christylee/Desktop/_COS429/cos429-final-project/dannon_yogurt/dannonlightnfit4cupsyogurt0fatblueberry_6ozx4cups.jpg",
+        "size": {
+            "width": 291,
+            "height": 173
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5M95KXBTy",
+            "type": "RECTANGLE",
+            "tags": [
+                "dannon"
+            ],
+            "boundingBox": {
+                "height": 126.37613689365672,
+                "width": 135.75273134017758,
+                "left": 8.50709714900111,
+                "top": 24.774443213619403
+            },
+            "points": [
+                {
+                    "x": 8.50709714900111,
+                    "y": 24.774443213619403
+                },
+                {
+                    "x": 144.2598284891787,
+                    "y": 24.774443213619403
+                },
+                {
+                    "x": 144.2598284891787,
+                    "y": 151.1505801072761
+                },
+                {
+                    "x": 8.50709714900111,
+                    "y": 151.1505801072761
+                }
+            ]
+        },
+        {
+            "id": "kz1KoqLfJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "dannon"
+            ],
+            "boundingBox": {
+                "height": 127.62557573460822,
+                "width": 133.22444679522752,
+                "left": 145.7649399972253,
+                "top": 27.376705340485074
+            },
+            "points": [
+                {
+                    "x": 145.7649399972253,
+                    "y": 27.376705340485074
+                },
+                {
+                    "x": 278.9893867924528,
+                    "y": 27.376705340485074
+                },
+                {
+                    "x": 278.9893867924528,
+                    "y": 155.0022810750933
+                },
+                {
+                    "x": 145.7649399972253,
+                    "y": 155.0022810750933
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
