@@ -1,0 +1,17 @@
+data/obj/snapple_100.jpeg
+data/obj/snapple_29.jpeg
+data/obj/snapple_40.jpeg
+data/obj/snapple_70.jpeg
+data/obj/snapple_80.png
+data/obj/snapple_61.jpeg
+data/obj/snapple_51.jpeg
+data/obj/snapple_10.png
+data/obj/snapple_30.jpeg
+data/obj/snapple_4.jpeg
+data/obj/snapple_33.jpeg
+data/obj/snapple_103.jpeg
+data/obj/snapple_57.jpeg
+data/obj/snapple_84.jpeg
+data/obj/snapple_9.jpeg
+data/obj/snapple_31.png
+data/obj/snapple_107.jpeg
