@@ -1,0 +1,12 @@
+calculation mAP (mean average precision)...
+8
+ detections_count = 14, unique_truth_count = 14  
+class_id = 0, name = snapple, ap = 26.92%   	 (TP = 7, FP = 6) 
+
+ for conf_thresh = 0.25, precision = 0.54, recall = 0.50, F1-score = 0.52 
+ for conf_thresh = 0.25, TP = 7, FP = 6, FN = 7, average IoU = 33.33 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.269231, or 26.92 % 
+Total Detection Time: 1.000000 Seconds
+
