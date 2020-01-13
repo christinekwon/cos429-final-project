@@ -10,3 +10,7 @@
 
 # image-scraper-new.py
 - script to download images from google given a search 
+
+
+# replace_class.py
+- update values of each image class
