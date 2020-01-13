@@ -1,0 +1,6 @@
+snapple_5.jpg: Predicted in 314.145000 milli-seconds.
+snapple: 96%
+snapple: 77%
+snapple: 61%
+snapple: 17%
+snapple: 65%

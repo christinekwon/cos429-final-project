@@ -1,0 +1,3 @@
+snapple_3.jpg: Predicted in 305.063000 milli-seconds.
+snapple: 91%
+snapple: 86%
