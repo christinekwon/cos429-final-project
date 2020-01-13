@@ -1,0 +1,6 @@
+snapple_1.jpg: Predicted in 275.588000 milli-seconds.
+snapple: 25%
+snapple: 32%
+snapple: 62%
+snapple: 28%
+tropicana_probiotics: 12%
