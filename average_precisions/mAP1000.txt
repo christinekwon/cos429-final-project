@@ -1,0 +1,34 @@
+net.optimized_memory = 0 
+batch = 1, time_steps = 1, train = 0 
+
+ seen 64 
+
+ calculation mAP (mean average precision)...
+
+ detections_count = 3972, unique_truth_count = 323  
+ rank = 0 of ranks = 3972  rank = 100 of ranks = 3972  rank = 200 of ranks = 3972  rank = 300 of ranks = 3972  rank = 400 of ranks = 3972  rank = 500 of ranks = 3972  rank = 600 of ranks = 3972  rank = 700 of ranks = 3972  rank = 800 of ranks = 3972  rank = 900 of ranks = 3972  rank = 1000 of ranks = 3972  rank = 1100 of ranks = 3972  rank = 1200 of ranks = 3972  rank = 1300 of ranks = 3972  rank = 1400 of ranks = 3972  rank = 1500 of ranks = 3972  rank = 1600 of ranks = 3972  rank = 1700 of ranks = 3972  rank = 1800 of ranks = 3972  rank = 1900 of ranks = 3972  rank = 2000 of ranks = 3972  rank = 2100 of ranks = 3972  rank = 2200 of ranks = 3972  rank = 2300 of ranks = 3972  rank = 2400 of ranks = 3972  rank = 2500 of ranks = 3972  rank = 2600 of ranks = 3972  rank = 2700 of ranks = 3972  rank = 2800 of ranks = 3972  rank = 2900 of ranks = 3972  rank = 3000 of ranks = 3972  rank = 3100 of ranks = 3972  rank = 3200 of ranks = 3972  rank = 3300 of ranks = 3972  rank = 3400 of ranks = 3972  rank = 3500 of ranks = 3972  rank = 3600 of ranks = 3972  rank = 3700 of ranks = 3972  rank = 3800 of ranks = 3972  rank = 3900 of ranks = 3972 class_id = 0, name = cheezits, ap = 36.09%   	 (TP = 16, FP = 13) 
+class_id = 1, name = dannon, ap = 62.53%   	 (TP = 10, FP = 4) 
+class_id = 2, name = eggs, ap = 21.32%   	 (TP = 17, FP = 41) 
+class_id = 3, name = honest_tea, ap = 47.36%   	 (TP = 19, FP = 26) 
+class_id = 4, name = milk, ap = 24.17%   	 (TP = 6, FP = 8) 
+class_id = 5, name = miss_vickies, ap = 22.11%   	 (TP = 3, FP = 8) 
+class_id = 6, name = oikos, ap = 42.68%   	 (TP = 3, FP = 4) 
+class_id = 7, name = powerade, ap = 56.37%   	 (TP = 8, FP = 5) 
+class_id = 8, name = pringles, ap = 56.01%   	 (TP = 13, FP = 3) 
+class_id = 9, name = pudding, ap = 13.88%   	 (TP = 2, FP = 9) 
+class_id = 10, name = silk, ap = 26.71%   	 (TP = 2, FP = 5) 
+class_id = 11, name = snapple, ap = 42.24%   	 (TP = 5, FP = 5) 
+class_id = 12, name = stacys, ap = 82.30%   	 (TP = 10, FP = 2) 
+class_id = 13, name = water, ap = 76.34%   	 (TP = 4, FP = 0) 
+class_id = 14, name = tropicana_probiotics, ap = 59.82%   	 (TP = 13, FP = 10) 
+
+ for conf_thresh = 0.25, precision = 0.48, recall = 0.41, F1-score = 0.44 
+ for conf_thresh = 0.25, TP = 131, FP = 143, FN = 192, average IoU = 32.27 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.446619, or 44.66 % 
+
+Set -points flag:
+ `-points 101` for MS COCO 
+ `-points 11` for PascalVOC 2007 (uncomment `difficult` in voc.data) 
+ `-points 0` (AUC) for ImageNet, PascalVOC 2010-2012, your custom dataset
