@@ -1,8 +1,0 @@
-/content/darknet/data_for_colab/data/snapple_27.jpeg
-/content/darknet/data_for_colab/data/snapple_5.jpeg
-/content/darknet/data_for_colab/data/snapple_95.jpeg
-/content/darknet/data_for_colab/data/snapple_101.jpeg
-/content/darknet/data_for_colab/data/snapple_78.jpeg
-/content/darknet/data_for_colab/data/snapple_103.jpeg
-/content/darknet/data_for_colab/data/snapple_72.jpeg
-/content/darknet/data_for_colab/data/snapple_109.jpeg
