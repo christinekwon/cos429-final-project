@@ -11,3 +11,8 @@
 ## update config file
     - update configuration file in data_for_colab to have the updated weights outputted by anchors.py, the correct number of classes, and the number of filters using the equation (n + 5) * 3, where n = number of classes
     - update obj.data and obj.names to have the correct number of classes, correct paths, and correct names of classes
+    - add all *.txt and *.jpeg files to data folder
+
+## zip files and upload on Google Colaboratory
+    - compress data_for_colab into a data_for_colab.zip file and upload it, along with tiny_yolo_v3.ipynb into Google Drive
+    - open tiny_yolo_v3.ipynb in Google Colaboratory and follow instructions in the file!
