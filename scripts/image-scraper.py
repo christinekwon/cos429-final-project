@@ -1,3 +1,5 @@
+# Modified version of a Google image scraper from Gene Kogan's Github: https://gist.github.com/genekogan
+
 from bs4 import BeautifulSoup
 import requests
 import re
@@ -13,13 +15,12 @@ def get_soup(url,header):
 
 # change the query for the image
 query = input()
-query= query.split()
-image_type='_'.join(query)
+image_type = query
+query = query.split()
+image_type = '_'.join(query)
 query='+'.join(query)
-print(image_type)
-print(query)
 url="https://www.google.co.in/search?q="+query+"&source=lnms&tbm=isch"
-# print (url)
+
 # add the directory for new images
 DIR="/Users/christinekwon/Documents/cos429/final-project/images/"
 header={'User-Agent':"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36"
@@ -32,19 +33,18 @@ for a in soup.find_all("div",{"class":"rg_meta"}):
     link , Type =json.loads(a.text)["ou"]  ,json.loads(a.text)["ity"]
     ActualImages.append((link,Type))
 
-print  ("there are total " + str(len(ActualImages)) + " images")
+print  ("downloading " + str(len(ActualImages)) + " images")
 
 if not os.path.exists(DIR):
             os.mkdir(DIR)
-DIR = os.path.join(DIR, query.split()[0])
+DIR = os.path.join(DIR, image_type.split()[0])
 
 if not os.path.exists(DIR):
             os.mkdir(DIR)
-# print images
-for i , (img , Type) in enumerate( ActualImages):
+
+# download images
+for i , (img , Type) in enumerate(ActualImages):
     try:
-        # req = Request(img, headers={'User-Agent' : header})
-        # raw_img = urlopen(req).read()
         raw_img = urlopen(Request(img)).read()
         cntr = len([i for i in os.listdir(DIR) if image_type in i]) + 1
         print (cntr)
